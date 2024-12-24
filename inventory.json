@@ -1,0 +1,290 @@
+[
+    {
+        "id": "INV000001",
+        "name": "Coffee Beans",
+        "category": "beverages",
+        "unit": "g",
+        "quantity": 194,
+        "minimum_quantity": 30,
+        "cost_per_unit": "9.19",
+        "supplier": {
+            "name": "Quality Supply",
+            "contact": "+19154085462",
+            "lead_time_days": 2
+        },
+        "last_ordered": "2023-04-06 02:31:46",
+        "last_received": "2024-11-22 10:33:24"
+    },
+    {
+        "id": "INV000002",
+        "name": "Milk",
+        "category": "dry_goods",
+        "unit": "g",
+        "quantity": 296,
+        "minimum_quantity": 35,
+        "cost_per_unit": "7.59",
+        "supplier": {
+            "name": "Fresh Direct",
+            "contact": "+17032491218",
+            "lead_time_days": 5
+        },
+        "last_ordered": "2024-11-03 20:23:42",
+        "last_received": "2023-10-10 04:59:15"
+    },
+    {
+        "id": "INV000003",
+        "name": "Water",
+        "category": "dry_goods",
+        "unit": "pieces",
+        "quantity": 338,
+        "minimum_quantity": 46,
+        "cost_per_unit": "6.78",
+        "supplier": {
+            "name": "Fresh Direct",
+            "contact": "+16907108153",
+            "lead_time_days": 2
+        },
+        "last_ordered": "2023-04-06 04:58:40",
+        "last_received": "2024-08-09 20:17:07"
+    },
+    {
+        "id": "INV000004",
+        "name": "Sugar",
+        "category": "meat",
+        "unit": "ml",
+        "quantity": 75,
+        "minimum_quantity": 25,
+        "cost_per_unit": "5.03",
+        "supplier": {
+            "name": "Fresh Direct",
+            "contact": "+14384045238",
+            "lead_time_days": 5
+        },
+        "last_ordered": "2024-10-05 16:52:35",
+        "last_received": "2024-03-31 05:15:28"
+    },
+    {
+        "id": "INV000005",
+        "name": "Cream",
+        "category": "beverages",
+        "unit": "g",
+        "quantity": 397,
+        "minimum_quantity": 30,
+        "cost_per_unit": "2.27",
+        "supplier": {
+            "name": "Global Foods",
+            "contact": "+13335421012",
+            "lead_time_days": 4
+        },
+        "last_ordered": "2023-05-03 01:50:16",
+        "last_received": "2023-09-06 14:40:58"
+    },
+    {
+        "id": "INV000006",
+        "name": "Tea Leaves",
+        "category": "beverages",
+        "unit": "packages",
+        "quantity": 108,
+        "minimum_quantity": 38,
+        "cost_per_unit": "8.22",
+        "supplier": {
+            "name": "Premium Ingredients",
+            "contact": "+17844710716",
+            "lead_time_days": 2
+        },
+        "last_ordered": "2023-11-29 04:05:18",
+        "last_received": "2024-05-03 22:11:16"
+    },
+    {
+        "id": "INV000007",
+        "name": "Chocolate",
+        "category": "supplies",
+        "unit": "l",
+        "quantity": 419,
+        "minimum_quantity": 29,
+        "cost_per_unit": "4.83",
+        "supplier": {
+            "name": "Global Foods",
+            "contact": "+13027848421",
+            "lead_time_days": 7
+        },
+        "last_ordered": "2024-10-19 01:58:58",
+        "last_received": "2024-05-04 22:06:51"
+    },
+    {
+        "id": "INV000008",
+        "name": "Caramel",
+        "category": "meat",
+        "unit": "g",
+        "quantity": 111,
+        "minimum_quantity": 50,
+        "cost_per_unit": "6.08",
+        "supplier": {
+            "name": "Global Foods",
+            "contact": "+13011918421",
+            "lead_time_days": 6
+        },
+        "last_ordered": "2024-09-13 10:09:45",
+        "last_received": "2023-02-15 23:29:49"
+    },
+    {
+        "id": "INV000009",
+        "name": "Bread",
+        "category": "beverages",
+        "unit": "ml",
+        "quantity": 372,
+        "minimum_quantity": 43,
+        "cost_per_unit": "8.38",
+        "supplier": {
+            "name": "Premium Ingredients",
+            "contact": "+12193391015",
+            "lead_time_days": 4
+        },
+        "last_ordered": "2023-08-26 23:36:58",
+        "last_received": "2023-03-14 09:23:13"
+    },
+    {
+        "id": "INV000010",
+        "name": "Lettuce",
+        "category": "dry_goods",
+        "unit": "l",
+        "quantity": 471,
+        "minimum_quantity": 32,
+        "cost_per_unit": "5.44",
+        "supplier": {
+            "name": "Fresh Direct",
+            "contact": "+19582384027",
+            "lead_time_days": 2
+        },
+        "last_ordered": "2024-05-10 23:18:15",
+        "last_received": "2024-03-16 04:51:31"
+    },
+    {
+        "id": "INV000011",
+        "name": "Tomato",
+        "category": "dry_goods",
+        "unit": "kg",
+        "quantity": 138,
+        "minimum_quantity": 37,
+        "cost_per_unit": "5.99",
+        "supplier": {
+            "name": "Quality Supply",
+            "contact": "+16188297885",
+            "lead_time_days": 2
+        },
+        "last_ordered": "2024-10-29 15:08:42",
+        "last_received": "2024-07-25 13:01:00"
+    },
+    {
+        "id": "INV000012",
+        "name": "Cheese",
+        "category": "dairy",
+        "unit": "packages",
+        "quantity": 200,
+        "minimum_quantity": 42,
+        "cost_per_unit": "8.41",
+        "supplier": {
+            "name": "Quality Supply",
+            "contact": "+12732545600",
+            "lead_time_days": 1
+        },
+        "last_ordered": "2024-09-13 19:43:28",
+        "last_received": "2023-05-18 11:15:47"
+    },
+    {
+        "id": "INV000013",
+        "name": "Chicken",
+        "category": "dairy",
+        "unit": "ml",
+        "quantity": 148,
+        "minimum_quantity": 50,
+        "cost_per_unit": "8.45",
+        "supplier": {
+            "name": "Premium Ingredients",
+            "contact": "+12598617189",
+            "lead_time_days": 7
+        },
+        "last_ordered": "2023-02-03 11:14:27",
+        "last_received": "2024-10-01 17:40:33"
+    },
+    {
+        "id": "INV000014",
+        "name": "Beef",
+        "category": "produce",
+        "unit": "packages",
+        "quantity": 78,
+        "minimum_quantity": 25,
+        "cost_per_unit": "2.87",
+        "supplier": {
+            "name": "Fresh Direct",
+            "contact": "+13486715187",
+            "lead_time_days": 6
+        },
+        "last_ordered": "2024-08-25 14:51:36",
+        "last_received": "2023-10-07 00:34:32"
+    },
+    {
+        "id": "INV000015",
+        "name": "Rice",
+        "category": "dry_goods",
+        "unit": "l",
+        "quantity": 223,
+        "minimum_quantity": 25,
+        "cost_per_unit": "6.38",
+        "supplier": {
+            "name": "Global Foods",
+            "contact": "+16861626617",
+            "lead_time_days": 6
+        },
+        "last_ordered": "2024-04-02 08:56:46",
+        "last_received": "2023-06-08 00:27:20"
+    },
+    {
+        "id": "INV000016",
+        "name": "Pasta",
+        "category": "produce",
+        "unit": "kg",
+        "quantity": 313,
+        "minimum_quantity": 38,
+        "cost_per_unit": "8.54",
+        "supplier": {
+            "name": "Premium Ingredients",
+            "contact": "+17829144531",
+            "lead_time_days": 6
+        },
+        "last_ordered": "2024-03-24 04:16:48",
+        "last_received": "2024-04-15 19:36:13"
+    },
+    {
+        "id": "INV000017",
+        "name": "Eggs",
+        "category": "dairy",
+        "unit": "ml",
+        "quantity": 371,
+        "minimum_quantity": 49,
+        "cost_per_unit": "3.13",
+        "supplier": {
+            "name": "Fresh Direct",
+            "contact": "+15944744280",
+            "lead_time_days": 1
+        },
+        "last_ordered": "2024-05-09 06:11:03",
+        "last_received": "2023-04-08 23:13:42"
+    },
+    {
+        "id": "INV000018",
+        "name": "Flour",
+        "category": "dry_goods",
+        "unit": "kg",
+        "quantity": 70,
+        "minimum_quantity": 42,
+        "cost_per_unit": "9.23",
+        "supplier": {
+            "name": "Premium Ingredients",
+            "contact": "+12539339263",
+            "lead_time_days": 7
+        },
+        "last_ordered": "2024-07-13 11:30:25",
+        "last_received": "2024-10-30 13:41:15"
+    }
+]

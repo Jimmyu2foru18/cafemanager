@@ -1,0 +1,44 @@
+{
+    "name": "cafemanager/pro",
+    "description": "A modern café management system with CRUD architecture",
+    "type": "project",
+    "require": {
+        "php": ">=8.1",
+        "ext-pdo": "*",
+        "ext-json": "*",
+        "cboden/ratchet": "^0.4",
+        "monolog/monolog": "^2.0",
+        "phpmailer/phpmailer": "^6.5",
+        "vlucas/phpdotenv": "^5.3",
+        "firebase/php-jwt": "^6.0",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "phpstan/phpstan": "^1.4",
+        "squizlabs/php_codesniffer": "^3.6",
+        "fakerphp/faker": "^1.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "CafeManager\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "CafeManager\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "phpunit",
+        "phpstan": "phpstan analyse src tests",
+        "cs": "phpcs --standard=PSR12 src tests",
+        "cs-fix": "phpcbf --standard=PSR12 src tests"
+    },
+    "config": {
+        "sort-packages": true,
+        "optimize-autoloader": true
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}

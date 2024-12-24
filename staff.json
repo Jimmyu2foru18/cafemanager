@@ -1,0 +1,883 @@
+[
+    {
+        "id": "STAFF0001",
+        "first_name": "James",
+        "last_name": "Jones",
+        "email": "staff1@cafemanager.com",
+        "phone": "+19023058958",
+        "role": "cashier",
+        "hire_date": "2023-09-16 21:44:14",
+        "preferred_shifts": [
+            "morning"
+        ],
+        "performance": {
+            "average_rating": "3.8",
+            "orders_processed": 924,
+            "customer_feedback": "4.5"
+        }
+    },
+    {
+        "id": "STAFF0002",
+        "first_name": "James",
+        "last_name": "Jones",
+        "email": "staff2@cafemanager.com",
+        "phone": "+17420956536",
+        "role": "chef",
+        "hire_date": "2023-04-06 07:31:57",
+        "preferred_shifts": [
+            "evening"
+        ],
+        "performance": {
+            "average_rating": "3.7",
+            "orders_processed": 381,
+            "customer_feedback": "4.6"
+        }
+    },
+    {
+        "id": "STAFF0003",
+        "first_name": "Robert",
+        "last_name": "Johnson",
+        "email": "staff3@cafemanager.com",
+        "phone": "+14921750931",
+        "role": "chef",
+        "hire_date": "2023-08-27 18:09:26",
+        "preferred_shifts": [
+            "evening",
+            "afternoon"
+        ],
+        "performance": {
+            "average_rating": "4.4",
+            "orders_processed": 570,
+            "customer_feedback": "5.0"
+        }
+    },
+    {
+        "id": "STAFF0004",
+        "first_name": "John",
+        "last_name": "Jones",
+        "email": "staff4@cafemanager.com",
+        "phone": "+13376021438",
+        "role": "cashier",
+        "hire_date": "2023-03-27 02:23:09",
+        "preferred_shifts": [
+            "morning",
+            "afternoon"
+        ],
+        "performance": {
+            "average_rating": "4.1",
+            "orders_processed": 243,
+            "customer_feedback": "4.9"
+        }
+    },
+    {
+        "id": "STAFF0005",
+        "first_name": "William",
+        "last_name": "Brown",
+        "email": "staff5@cafemanager.com",
+        "phone": "+12267362093",
+        "role": "chef",
+        "hire_date": "2024-07-26 01:21:50",
+        "preferred_shifts": [
+            "afternoon",
+            "morning"
+        ],
+        "performance": {
+            "average_rating": "3.8",
+            "orders_processed": 776,
+            "customer_feedback": "4.1"
+        }
+    },
+    {
+        "id": "STAFF0006",
+        "first_name": "Michael",
+        "last_name": "Jones",
+        "email": "staff6@cafemanager.com",
+        "phone": "+19653474463",
+        "role": "server",
+        "hire_date": "2023-07-04 01:04:17",
+        "preferred_shifts": [
+            "morning",
+            "afternoon"
+        ],
+        "performance": {
+            "average_rating": "5.0",
+            "orders_processed": 243,
+            "customer_feedback": "4.5"
+        }
+    },
+    {
+        "id": "STAFF0007",
+        "first_name": "John",
+        "last_name": "Brown",
+        "email": "staff7@cafemanager.com",
+        "phone": "+17689870700",
+        "role": "cashier",
+        "hire_date": "2023-03-08 08:05:02",
+        "preferred_shifts": [
+            "morning",
+            "afternoon"
+        ],
+        "performance": {
+            "average_rating": "4.1",
+            "orders_processed": 975,
+            "customer_feedback": "4.6"
+        }
+    },
+    {
+        "id": "STAFF0008",
+        "first_name": "Michael",
+        "last_name": "Brown",
+        "email": "staff8@cafemanager.com",
+        "phone": "+15276110608",
+        "role": "manager",
+        "hire_date": "2024-03-09 18:23:15",
+        "preferred_shifts": [
+            "afternoon",
+            "evening"
+        ],
+        "performance": {
+            "average_rating": "4.3",
+            "orders_processed": 313,
+            "customer_feedback": "4.0"
+        }
+    },
+    {
+        "id": "STAFF0009",
+        "first_name": "John",
+        "last_name": "Jones",
+        "email": "staff9@cafemanager.com",
+        "phone": "+17683828777",
+        "role": "server",
+        "hire_date": "2024-06-16 16:14:02",
+        "preferred_shifts": [
+            "evening",
+            "afternoon"
+        ],
+        "performance": {
+            "average_rating": "4.6",
+            "orders_processed": 552,
+            "customer_feedback": "5.0"
+        }
+    },
+    {
+        "id": "STAFF0010",
+        "first_name": "James",
+        "last_name": "Jones",
+        "email": "staff10@cafemanager.com",
+        "phone": "+15608061825",
+        "role": "manager",
+        "hire_date": "2023-10-03 22:11:29",
+        "preferred_shifts": [
+            "afternoon",
+            "evening"
+        ],
+        "performance": {
+            "average_rating": "5.0",
+            "orders_processed": 748,
+            "customer_feedback": "4.2"
+        }
+    },
+    {
+        "id": "STAFF0011",
+        "first_name": "James",
+        "last_name": "Johnson",
+        "email": "staff11@cafemanager.com",
+        "phone": "+14509345712",
+        "role": "server",
+        "hire_date": "2024-11-07 11:04:37",
+        "preferred_shifts": [
+            "morning",
+            "afternoon"
+        ],
+        "performance": {
+            "average_rating": "3.5",
+            "orders_processed": 650,
+            "customer_feedback": "4.3"
+        }
+    },
+    {
+        "id": "STAFF0012",
+        "first_name": "James",
+        "last_name": "Jones",
+        "email": "staff12@cafemanager.com",
+        "phone": "+12808871021",
+        "role": "manager",
+        "hire_date": "2023-07-21 11:35:55",
+        "preferred_shifts": [
+            "morning"
+        ],
+        "performance": {
+            "average_rating": "3.7",
+            "orders_processed": 769,
+            "customer_feedback": "4.7"
+        }
+    },
+    {
+        "id": "STAFF0013",
+        "first_name": "James",
+        "last_name": "Johnson",
+        "email": "staff13@cafemanager.com",
+        "phone": "+12110626435",
+        "role": "server",
+        "hire_date": "2024-11-21 03:45:43",
+        "preferred_shifts": [
+            "evening",
+            "afternoon"
+        ],
+        "performance": {
+            "average_rating": "4.5",
+            "orders_processed": 763,
+            "customer_feedback": "4.9"
+        }
+    },
+    {
+        "id": "STAFF0014",
+        "first_name": "Robert",
+        "last_name": "Johnson",
+        "email": "staff14@cafemanager.com",
+        "phone": "+12006095667",
+        "role": "server",
+        "hire_date": "2023-02-26 05:25:53",
+        "preferred_shifts": [
+            "morning"
+        ],
+        "performance": {
+            "average_rating": "5.0",
+            "orders_processed": 134,
+            "customer_feedback": "4.3"
+        }
+    },
+    {
+        "id": "STAFF0015",
+        "first_name": "James",
+        "last_name": "Smith",
+        "email": "staff15@cafemanager.com",
+        "phone": "+18325353163",
+        "role": "manager",
+        "hire_date": "2023-01-14 23:17:36",
+        "preferred_shifts": [
+            "evening",
+            "morning"
+        ],
+        "performance": {
+            "average_rating": "4.4",
+            "orders_processed": 354,
+            "customer_feedback": "5.0"
+        }
+    },
+    {
+        "id": "STAFF0016",
+        "first_name": "Robert",
+        "last_name": "Brown",
+        "email": "staff16@cafemanager.com",
+        "phone": "+14156545198",
+        "role": "cashier",
+        "hire_date": "2024-02-26 21:35:38",
+        "preferred_shifts": [
+            "afternoon",
+            "evening"
+        ],
+        "performance": {
+            "average_rating": "3.6",
+            "orders_processed": 409,
+            "customer_feedback": "4.2"
+        }
+    },
+    {
+        "id": "STAFF0017",
+        "first_name": "John",
+        "last_name": "Jones",
+        "email": "staff17@cafemanager.com",
+        "phone": "+13491712716",
+        "role": "cashier",
+        "hire_date": "2023-12-31 11:09:45",
+        "preferred_shifts": [
+            "morning",
+            "evening"
+        ],
+        "performance": {
+            "average_rating": "3.8",
+            "orders_processed": 946,
+            "customer_feedback": "4.2"
+        }
+    },
+    {
+        "id": "STAFF0018",
+        "first_name": "John",
+        "last_name": "Brown",
+        "email": "staff18@cafemanager.com",
+        "phone": "+15119187335",
+        "role": "chef",
+        "hire_date": "2023-03-21 22:27:46",
+        "preferred_shifts": [
+            "evening",
+            "afternoon"
+        ],
+        "performance": {
+            "average_rating": "3.7",
+            "orders_processed": 103,
+            "customer_feedback": "4.2"
+        }
+    },
+    {
+        "id": "STAFF0019",
+        "first_name": "John",
+        "last_name": "Smith",
+        "email": "staff19@cafemanager.com",
+        "phone": "+16416649712",
+        "role": "manager",
+        "hire_date": "2024-02-12 07:14:02",
+        "preferred_shifts": [
+            "evening"
+        ],
+        "performance": {
+            "average_rating": "4.7",
+            "orders_processed": 407,
+            "customer_feedback": "4.2"
+        }
+    },
+    {
+        "id": "STAFF0020",
+        "first_name": "Robert",
+        "last_name": "Johnson",
+        "email": "staff20@cafemanager.com",
+        "phone": "+16326546019",
+        "role": "server",
+        "hire_date": "2024-02-18 10:00:34",
+        "preferred_shifts": [
+            "afternoon",
+            "morning"
+        ],
+        "performance": {
+            "average_rating": "4.7",
+            "orders_processed": 720,
+            "customer_feedback": "4.3"
+        }
+    },
+    {
+        "id": "STAFF0021",
+        "first_name": "William",
+        "last_name": "Jones",
+        "email": "staff21@cafemanager.com",
+        "phone": "+12862258732",
+        "role": "chef",
+        "hire_date": "2023-08-29 16:36:11",
+        "preferred_shifts": [
+            "afternoon",
+            "morning"
+        ],
+        "performance": {
+            "average_rating": "4.7",
+            "orders_processed": 304,
+            "customer_feedback": "4.0"
+        }
+    },
+    {
+        "id": "STAFF0022",
+        "first_name": "Michael",
+        "last_name": "Johnson",
+        "email": "staff22@cafemanager.com",
+        "phone": "+19977823459",
+        "role": "cashier",
+        "hire_date": "2024-11-22 23:05:03",
+        "preferred_shifts": [
+            "morning"
+        ],
+        "performance": {
+            "average_rating": "4.3",
+            "orders_processed": 410,
+            "customer_feedback": "4.0"
+        }
+    },
+    {
+        "id": "STAFF0023",
+        "first_name": "Robert",
+        "last_name": "Smith",
+        "email": "staff23@cafemanager.com",
+        "phone": "+19885663640",
+        "role": "cashier",
+        "hire_date": "2024-05-18 23:07:14",
+        "preferred_shifts": [
+            "morning",
+            "afternoon"
+        ],
+        "performance": {
+            "average_rating": "4.8",
+            "orders_processed": 987,
+            "customer_feedback": "4.7"
+        }
+    },
+    {
+        "id": "STAFF0024",
+        "first_name": "James",
+        "last_name": "Brown",
+        "email": "staff24@cafemanager.com",
+        "phone": "+19959016169",
+        "role": "manager",
+        "hire_date": "2024-06-18 15:32:35",
+        "preferred_shifts": [
+            "evening",
+            "morning"
+        ],
+        "performance": {
+            "average_rating": "3.9",
+            "orders_processed": 311,
+            "customer_feedback": "4.3"
+        }
+    },
+    {
+        "id": "STAFF0025",
+        "first_name": "Robert",
+        "last_name": "Brown",
+        "email": "staff25@cafemanager.com",
+        "phone": "+17726804665",
+        "role": "chef",
+        "hire_date": "2023-12-23 20:58:59",
+        "preferred_shifts": [
+            "evening"
+        ],
+        "performance": {
+            "average_rating": "4.7",
+            "orders_processed": 294,
+            "customer_feedback": "4.4"
+        }
+    },
+    {
+        "id": "STAFF0026",
+        "first_name": "Michael",
+        "last_name": "Jones",
+        "email": "staff26@cafemanager.com",
+        "phone": "+13395373482",
+        "role": "barista",
+        "hire_date": "2024-01-15 10:43:18",
+        "preferred_shifts": [
+            "morning",
+            "evening"
+        ],
+        "performance": {
+            "average_rating": "3.7",
+            "orders_processed": 229,
+            "customer_feedback": "4.8"
+        }
+    },
+    {
+        "id": "STAFF0027",
+        "first_name": "Michael",
+        "last_name": "Smith",
+        "email": "staff27@cafemanager.com",
+        "phone": "+17202116347",
+        "role": "barista",
+        "hire_date": "2024-06-03 23:35:45",
+        "preferred_shifts": [
+            "morning",
+            "afternoon"
+        ],
+        "performance": {
+            "average_rating": "4.6",
+            "orders_processed": 104,
+            "customer_feedback": "4.2"
+        }
+    },
+    {
+        "id": "STAFF0028",
+        "first_name": "John",
+        "last_name": "Williams",
+        "email": "staff28@cafemanager.com",
+        "phone": "+18553809419",
+        "role": "chef",
+        "hire_date": "2023-02-12 12:48:31",
+        "preferred_shifts": [
+            "evening"
+        ],
+        "performance": {
+            "average_rating": "3.6",
+            "orders_processed": 426,
+            "customer_feedback": "4.1"
+        }
+    },
+    {
+        "id": "STAFF0029",
+        "first_name": "William",
+        "last_name": "Jones",
+        "email": "staff29@cafemanager.com",
+        "phone": "+12790598627",
+        "role": "server",
+        "hire_date": "2023-04-17 08:31:06",
+        "preferred_shifts": [
+            "evening"
+        ],
+        "performance": {
+            "average_rating": "3.7",
+            "orders_processed": 364,
+            "customer_feedback": "4.3"
+        }
+    },
+    {
+        "id": "STAFF0030",
+        "first_name": "Michael",
+        "last_name": "Brown",
+        "email": "staff30@cafemanager.com",
+        "phone": "+16321976454",
+        "role": "chef",
+        "hire_date": "2023-06-30 19:47:20",
+        "preferred_shifts": [
+            "evening"
+        ],
+        "performance": {
+            "average_rating": "3.7",
+            "orders_processed": 992,
+            "customer_feedback": "4.4"
+        }
+    },
+    {
+        "id": "STAFF0031",
+        "first_name": "John",
+        "last_name": "Johnson",
+        "email": "staff31@cafemanager.com",
+        "phone": "+16384473319",
+        "role": "barista",
+        "hire_date": "2024-01-05 16:49:36",
+        "preferred_shifts": [
+            "morning"
+        ],
+        "performance": {
+            "average_rating": "4.9",
+            "orders_processed": 915,
+            "customer_feedback": "4.4"
+        }
+    },
+    {
+        "id": "STAFF0032",
+        "first_name": "William",
+        "last_name": "Williams",
+        "email": "staff32@cafemanager.com",
+        "phone": "+17697953154",
+        "role": "cashier",
+        "hire_date": "2023-11-25 00:38:46",
+        "preferred_shifts": [
+            "morning",
+            "evening"
+        ],
+        "performance": {
+            "average_rating": "4.7",
+            "orders_processed": 770,
+            "customer_feedback": "4.3"
+        }
+    },
+    {
+        "id": "STAFF0033",
+        "first_name": "John",
+        "last_name": "Brown",
+        "email": "staff33@cafemanager.com",
+        "phone": "+13896186052",
+        "role": "cashier",
+        "hire_date": "2024-09-17 19:36:31",
+        "preferred_shifts": [
+            "afternoon",
+            "evening"
+        ],
+        "performance": {
+            "average_rating": "4.1",
+            "orders_processed": 300,
+            "customer_feedback": "4.0"
+        }
+    },
+    {
+        "id": "STAFF0034",
+        "first_name": "James",
+        "last_name": "Smith",
+        "email": "staff34@cafemanager.com",
+        "phone": "+14888170593",
+        "role": "chef",
+        "hire_date": "2024-06-01 00:25:31",
+        "preferred_shifts": [
+            "morning"
+        ],
+        "performance": {
+            "average_rating": "4.1",
+            "orders_processed": 751,
+            "customer_feedback": "4.3"
+        }
+    },
+    {
+        "id": "STAFF0035",
+        "first_name": "Robert",
+        "last_name": "Jones",
+        "email": "staff35@cafemanager.com",
+        "phone": "+15540137185",
+        "role": "barista",
+        "hire_date": "2024-10-19 18:16:49",
+        "preferred_shifts": [
+            "afternoon",
+            "morning"
+        ],
+        "performance": {
+            "average_rating": "4.5",
+            "orders_processed": 125,
+            "customer_feedback": "4.4"
+        }
+    },
+    {
+        "id": "STAFF0036",
+        "first_name": "John",
+        "last_name": "Brown",
+        "email": "staff36@cafemanager.com",
+        "phone": "+16096650700",
+        "role": "server",
+        "hire_date": "2023-04-23 19:32:12",
+        "preferred_shifts": [
+            "afternoon"
+        ],
+        "performance": {
+            "average_rating": "3.8",
+            "orders_processed": 961,
+            "customer_feedback": "4.0"
+        }
+    },
+    {
+        "id": "STAFF0037",
+        "first_name": "William",
+        "last_name": "Williams",
+        "email": "staff37@cafemanager.com",
+        "phone": "+14222258645",
+        "role": "server",
+        "hire_date": "2024-11-22 09:41:52",
+        "preferred_shifts": [
+            "afternoon",
+            "morning"
+        ],
+        "performance": {
+            "average_rating": "3.9",
+            "orders_processed": 354,
+            "customer_feedback": "4.1"
+        }
+    },
+    {
+        "id": "STAFF0038",
+        "first_name": "James",
+        "last_name": "Smith",
+        "email": "staff38@cafemanager.com",
+        "phone": "+12353551273",
+        "role": "cashier",
+        "hire_date": "2023-02-19 09:25:41",
+        "preferred_shifts": [
+            "afternoon",
+            "evening"
+        ],
+        "performance": {
+            "average_rating": "4.0",
+            "orders_processed": 813,
+            "customer_feedback": "4.3"
+        }
+    },
+    {
+        "id": "STAFF0039",
+        "first_name": "John",
+        "last_name": "Jones",
+        "email": "staff39@cafemanager.com",
+        "phone": "+17381745350",
+        "role": "manager",
+        "hire_date": "2024-08-20 10:17:30",
+        "preferred_shifts": [
+            "afternoon",
+            "morning"
+        ],
+        "performance": {
+            "average_rating": "3.5",
+            "orders_processed": 779,
+            "customer_feedback": "4.4"
+        }
+    },
+    {
+        "id": "STAFF0040",
+        "first_name": "Robert",
+        "last_name": "Smith",
+        "email": "staff40@cafemanager.com",
+        "phone": "+14001374251",
+        "role": "chef",
+        "hire_date": "2023-03-04 23:42:10",
+        "preferred_shifts": [
+            "evening",
+            "afternoon"
+        ],
+        "performance": {
+            "average_rating": "3.6",
+            "orders_processed": 953,
+            "customer_feedback": "4.6"
+        }
+    },
+    {
+        "id": "STAFF0041",
+        "first_name": "William",
+        "last_name": "Smith",
+        "email": "staff41@cafemanager.com",
+        "phone": "+15510359677",
+        "role": "server",
+        "hire_date": "2024-01-21 11:28:27",
+        "preferred_shifts": [
+            "evening",
+            "morning"
+        ],
+        "performance": {
+            "average_rating": "4.8",
+            "orders_processed": 995,
+            "customer_feedback": "4.7"
+        }
+    },
+    {
+        "id": "STAFF0042",
+        "first_name": "John",
+        "last_name": "Brown",
+        "email": "staff42@cafemanager.com",
+        "phone": "+16141928284",
+        "role": "manager",
+        "hire_date": "2024-04-24 12:03:17",
+        "preferred_shifts": [
+            "afternoon",
+            "evening"
+        ],
+        "performance": {
+            "average_rating": "4.8",
+            "orders_processed": 125,
+            "customer_feedback": "4.3"
+        }
+    },
+    {
+        "id": "STAFF0043",
+        "first_name": "William",
+        "last_name": "Johnson",
+        "email": "staff43@cafemanager.com",
+        "phone": "+15293812836",
+        "role": "chef",
+        "hire_date": "2023-04-28 14:23:56",
+        "preferred_shifts": [
+            "evening"
+        ],
+        "performance": {
+            "average_rating": "4.1",
+            "orders_processed": 509,
+            "customer_feedback": "4.6"
+        }
+    },
+    {
+        "id": "STAFF0044",
+        "first_name": "James",
+        "last_name": "Williams",
+        "email": "staff44@cafemanager.com",
+        "phone": "+16784158117",
+        "role": "chef",
+        "hire_date": "2023-05-12 08:07:32",
+        "preferred_shifts": [
+            "morning",
+            "evening"
+        ],
+        "performance": {
+            "average_rating": "3.7",
+            "orders_processed": 748,
+            "customer_feedback": "4.6"
+        }
+    },
+    {
+        "id": "STAFF0045",
+        "first_name": "James",
+        "last_name": "Johnson",
+        "email": "staff45@cafemanager.com",
+        "phone": "+13442463736",
+        "role": "cashier",
+        "hire_date": "2023-11-01 23:01:34",
+        "preferred_shifts": [
+            "afternoon"
+        ],
+        "performance": {
+            "average_rating": "3.9",
+            "orders_processed": 245,
+            "customer_feedback": "4.3"
+        }
+    },
+    {
+        "id": "STAFF0046",
+        "first_name": "John",
+        "last_name": "Jones",
+        "email": "staff46@cafemanager.com",
+        "phone": "+16272690057",
+        "role": "barista",
+        "hire_date": "2023-04-21 21:10:08",
+        "preferred_shifts": [
+            "afternoon"
+        ],
+        "performance": {
+            "average_rating": "4.7",
+            "orders_processed": 191,
+            "customer_feedback": "4.9"
+        }
+    },
+    {
+        "id": "STAFF0047",
+        "first_name": "John",
+        "last_name": "Johnson",
+        "email": "staff47@cafemanager.com",
+        "phone": "+13891623653",
+        "role": "manager",
+        "hire_date": "2023-10-13 01:28:51",
+        "preferred_shifts": [
+            "evening",
+            "afternoon"
+        ],
+        "performance": {
+            "average_rating": "3.8",
+            "orders_processed": 456,
+            "customer_feedback": "4.5"
+        }
+    },
+    {
+        "id": "STAFF0048",
+        "first_name": "John",
+        "last_name": "Jones",
+        "email": "staff48@cafemanager.com",
+        "phone": "+14108108633",
+        "role": "cashier",
+        "hire_date": "2023-03-20 17:45:25",
+        "preferred_shifts": [
+            "afternoon"
+        ],
+        "performance": {
+            "average_rating": "4.0",
+            "orders_processed": 373,
+            "customer_feedback": "4.2"
+        }
+    },
+    {
+        "id": "STAFF0049",
+        "first_name": "Michael",
+        "last_name": "Jones",
+        "email": "staff49@cafemanager.com",
+        "phone": "+17049125313",
+        "role": "cashier",
+        "hire_date": "2024-05-25 15:22:58",
+        "preferred_shifts": [
+            "morning"
+        ],
+        "performance": {
+            "average_rating": "3.6",
+            "orders_processed": 465,
+            "customer_feedback": "4.0"
+        }
+    },
+    {
+        "id": "STAFF0050",
+        "first_name": "Michael",
+        "last_name": "Williams",
+        "email": "staff50@cafemanager.com",
+        "phone": "+18939903532",
+        "role": "barista",
+        "hire_date": "2024-09-17 10:20:31",
+        "preferred_shifts": [
+            "morning"
+        ],
+        "performance": {
+            "average_rating": "5.0",
+            "orders_processed": 445,
+            "customer_feedback": "4.8"
+        }
+    }
+]
